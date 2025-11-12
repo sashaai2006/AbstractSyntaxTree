@@ -1,0 +1,19 @@
+lab2/
+├── parser/          # Лексический анализ и парсинг
+│   ├── tokenizer.h  # Токенизация входной строки
+│   ├── tokenizer.cpp
+│   ├── parser.h     # Построение AST из токенов
+│   └── parser.cpp
+├── ast/             # Представление AST
+│   ├── ast.h        # Класс AST и Node
+│   └── ast.cpp
+├── analysis/        # Анализ подвыражений
+│   ├── subexpression_finder.h  # Поиск повторяющихся подвыражений (2.10)
+│   ├── subexpression_finder.cpp
+│   ├── msp_checker.h           # Проверка МСП (максимально свободных)
+│   └── msp_checker.cpp
+├── util/            # Вспомогательные утилиты
+│   ├── subtree_utils.h  # Утилиты для работы с поддеревьями
+│   └── subtree_utils.cpp
+└── app/             # Приложение
+    └── main.cpp     # Демонстрация работы

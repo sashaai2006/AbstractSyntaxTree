@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++23 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab2_tests.dir/lab2_tests_autogen/mocs_compilation.cpp.o CMakeFiles/lab2_tests.dir/tests/run_tests.cpp.o -o lab2_tests  liblab2_core.a

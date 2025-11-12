@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_lab2_core_FILE /Users/sasii/Code/c++_code/labs/lab2/build/liblab2_core.a)
+set(__QT_DEPLOY_TARGET_lab2_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_lab2_tests_FILE /Users/sasii/Code/c++_code/labs/lab2/build/lab2_tests)
+set(__QT_DEPLOY_TARGET_lab2_tests_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_lab2_app_FILE /Users/sasii/Code/c++_code/labs/lab2/build/lab2_app)
+set(__QT_DEPLOY_TARGET_lab2_app_TYPE EXECUTABLE)
